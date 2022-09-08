@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Typechan
 - 👀 I’m interested in Java and Android stuff
 - 🌱 I’m currently learning what I'm interested in
-- 💞️ If you have anything that will allow me to leave Kazakhstan - I'm in
+- 💞️ Yes.
 - 📫 How to reach me: Alishrahat03@gmail.com
 
 <!---
