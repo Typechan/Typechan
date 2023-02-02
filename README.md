@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Typechan
-- 👀 I’m interested in Java and Android stuff
-- 🌱 I’m currently learning what I'm interested in
-- 💞️ Yes.
+- 👀 I’m interested in ...
+- 🌱 I’m currently ...
+- 💞️ Yes ...
 - 📫 How to reach me: Alishrahat03@gmail.com
 
 <!---
